@@ -1,0 +1,7 @@
+User-agent: *
+Allow: /blog/
+Allow: /blog/category/
+Allow: /blog/tag/
+Disallow: /admin/
+
+Sitemap: https://eventzone.pro/sitemap.xml
